@@ -1,4 +1,4 @@
 # Database Soccer League
 
-SQL data model for mock soccer league. 
+SQL data model for a mock soccer league. 
 
